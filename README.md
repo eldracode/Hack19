@@ -4,8 +4,7 @@ A new Flutter project made for the International Flutter Hackathon #Hack19.
 
 Team Members -
 <br>
-- [Ayush](https://github.com/eldraco19)
-<br>
+- [Ayush](https://github.com/eldraco19) 
 - [Suyash Purwar](https://github.com/Suyash-Purwar)
 
 ## Some Screenshots
