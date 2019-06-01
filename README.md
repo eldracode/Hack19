@@ -1,6 +1,13 @@
-# flutter_wall
+# FlutterComm
 
-A new Flutter project.
+A new Flutter project made for the International Flutter Hackathon #Hack19.
+
+## Some Screenshots
+
+<img src="flutter_04.png" height="600em" width="300em">
+<img src="flutter_01.png" height="600em" width="300em">
+<img src="flutter_02.png" height="600em" width="300em">
+<img src="flutter_03.png" height="600em" width="300em">
 
 ## Getting Started
 
