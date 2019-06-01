@@ -2,6 +2,10 @@
 
 A new Flutter project made for the International Flutter Hackathon #Hack19.
 
+Team Members - 
+[Ayush](https://github.com/eldraco19)
+[Suyash Purwar](https://github.com/Suyash-Purwar)
+
 ## Some Screenshots
 
 <img src="flutter_04.png" height="600em" width="300em">
